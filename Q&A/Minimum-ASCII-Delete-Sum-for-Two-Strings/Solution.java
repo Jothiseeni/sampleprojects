@@ -48,7 +48,6 @@ public class Solution {
         return solve(s1, s2, 0, 0);
     }
 
-    // ✅ MAIN METHOD (for VS Code)
     public static void main(String[] args) {
         Solution sol = new Solution();
 
