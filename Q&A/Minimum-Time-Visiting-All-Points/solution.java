@@ -15,7 +15,6 @@ public class solution {
         return ans;
     }
 
-    // ✅ MAIN METHOD (for VS Code)
     public static void main(String[] args) {
         int[][] points = {
                 { 1, 1 },
