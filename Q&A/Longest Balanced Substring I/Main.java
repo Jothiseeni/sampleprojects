@@ -34,13 +34,11 @@ class Solution {
         }
         return true;
     }
-
 }
 
-    // Main class for VS Code
-    public class{
-
-    public static  main(String[] args) {
+// Main class for VS Code
+public class Main {
+    public static void main(String[] args) {
 
         Solution sol = new Solution();
 
